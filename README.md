@@ -11,43 +11,107 @@
  **الوصف**: تم إجراء الملخص يشمل عدة مواضيع في git   
  
  
-**المحتوى:**
+<div dir = "rtl">
 
+<table style="width:100%">  
+<tr>  
+<th>المحتوى</th>  
+</tr>  
+<tr>  
+<td> لماذا نحتاج git ؟</td>  
+</tr>  
+<tr>  
+<td> مفهوم أنظمة التحكم بالنسخ VCS</td>  
+</tr>  
+<tr>  
+<td>أنواع أنظمة التحكم بالنسخ VCS</td>  
+</tr>  
+<tr>  
+<td>تنصيب البرنامج على الويندوز  </td>  
+</tr>  
+<tr>  
+<td>تنصيب البرنامج على الماك</td>  
+</tr>  
+<tr>  
+<td>الأمر git init جزء 1</td>  
+</tr>  
+<tr>  
+<td>الأمر git init جزء 2</td>  
+</tr>  
+<tr>  
+<td>مفهوم Git Stages</td>  
+</tr>  
+<tr>  
+<td>الأمر git status: </td>  
+</tr>  
+<tr>  
+<td>الأمر  git add</td>  
+</tr>  
+<tr>  
+<td>تهيئة Git</td>  
+</tr>  
+<tr>  
+<td>الأمر git commit</td>  
+</tr>  
+<tr>  
+<td>تحديث رسالة commit</td>  
+</tr>  
+<tr>  
+<td>إخفاء الملفات باستخدام  gitignore</td>  
+</tr>  
+<tr>  
+<td>إعادة الملفات من مرحلة Staged </td>  
+</tr>  
+<tr>  
+<td>الأمر git log </td>  
+</tr><tr>  
+<td>الأمر  git log –oneline & الأمر  git log –oneline --graph</td>  
+</tr><tr>  
+<td>مفهوم الفروع </td>  
+</tr><tr>  
+<td>إنشاء وعرض الفروع</td>  
+</tr><tr>  
+<td>الانتقال بين الفروع</td>  
+</tr><tr>  
+<td>إنشاء فرع جديد والانتقال له</td>  
+</tr><tr>  
+<td>إعادة تسمية الفرع</td>  
+</tr>
+</tr><tr>  
+<td>حذف الفرع</td>  
+</tr></tr><tr>  
+<td>مفهوم الدمج</td>  
+</tr></tr><tr>  
+<td>الدمج المباشر</td>  
+</tr></tr><tr>  
+<td>إنشاء وعرض tag</td>  
+</tr></tr><tr>  
+<td>عرض تفاصيل tag</td>  
+</tr>
+</tr></tr><tr>  
+<td>حذف tag</td>  
+</tr>
+</tr></tr><tr>  
+<td>الأمر git clone</td>  
+</tr>
+</tr></tr><tr>  
+<td>الأمر git push</td>  
+</tr>
+</tr></tr><tr>  
+<td>الأمر  git pull</td>  
+</tr>
+</tr></tr><tr>  
+<td>إضافة remote</td>  
+</tr>
+</tr></tr><tr>  
+<td>رفع التحديثات لمشروع خارجي</td>  
+</tr>
+</tr></tr><tr>  
+<td>حذف remote  </td>  
+</tr>
+</table>
 
-| لماذا نحتاج git ؟
- |  مفهوم أنظمة التحكم بالنسخ VCS
- |أنواع أنظمة التحكم بالنسخ VCS 
-|تنصيب البرنامج على الويندوز|  
-|تنصيب البرنامج على الماك
-الأمر git init جزء 1 
-| الأمر git init جزء 2
-|مفهوم Git Stages|
-الأمر git status |
-الأمر  git add |
-تهيئة Git |
-الأمر git commit |
-تحديث رسالة commit |
-إخفاء الملفات باستخدام  gitignore |
-إعادة الملفات من مرحلة Staged |
-الأمر git log |
-الأمر  git log –oneline & الأمر  git log –oneline --graph|
- مفهوم الفروع |
-إنشاء وعرض الفروع|
-الانتقال بين الفروع|
-إنشاء فرع جديد والانتقال له|
- إعادة تسمية الفرع|
-حذف الفرع|
-مفهوم الدمج|
-الدمج المباشر|
-إنشاء وعرض tag|
-عرض تفاصيل tag |
-حذف tag |
-الأمر git clone|
- الأمر git push|
-الأمر  git pull|
-إضافة remote|
-رفع التحديثات لمشروع خارجي|
-حذف remote|
+</div>
 
 
 **اسم المتدرب**: ندى العتيبي
