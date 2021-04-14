@@ -17,7 +17,7 @@
 <th>المحتوى</th>  
 </tr>  
 <tr>  
-<td> [لماذا نحتاج git](https://github.com/NadaAlOtaibi/Git-/blob/main/Ch01/01.md) ؟</td>  
+<td> لماذا نحتاج git ؟</td>  
 </tr>  
 <tr>  
 <td> مفهوم أنظمة التحكم بالنسخ VCS</td>  
