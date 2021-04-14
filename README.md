@@ -10,7 +10,6 @@
  
  **الوصف**: تم إجراء الملخص يشمل عدة مواضيع في git   
  
- 
 <div dir = "rtl">
 
 <table style="width:100%">  
@@ -18,7 +17,7 @@
 <th>المحتوى</th>  
 </tr>  
 <tr>  
-<td> لماذا نحتاج git ؟</td>  
+<td> [لماذا نحتاج git](https://github.com/NadaAlOtaibi/Git-/blob/main/Ch01/01.md) ؟</td>  
 </tr>  
 <tr>  
 <td> مفهوم أنظمة التحكم بالنسخ VCS</td>  
@@ -112,6 +111,7 @@
 </table>
 
 </div>
+
 
 
 **اسم المتدرب**: ندى العتيبي
