@@ -22,7 +22,7 @@
 الأمر git init جزء 1 
 | الأمر git init جزء 2
 |مفهوم Git Stages|
-الأمر git status: |
+الأمر git status |
 الأمر  git add |
 تهيئة Git |
 الأمر git commit |
